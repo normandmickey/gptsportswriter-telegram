@@ -1,5 +1,7 @@
 ```pip3 install python-telegram-bot python-dotenv```
 
+Clone this repository
+
 Register your bot on Telegram
 1. Visit https://web.telegram.org/k/ and log in with your smartphone. Use the search bar to search for “BotFather”.
 2. Start the registration with the /start command.
@@ -16,3 +18,7 @@ Get your Tavily Search API Key
    TAVILY_API_TOKEN=<your_tavily_api_token>
    ```
 
+Enjoy
+```
+python telegram-bot.py
+```
