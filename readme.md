@@ -5,4 +5,6 @@ Register our bot at telegram
 2. Start the registration with the /start command.
 3. /newbot to register a new bot
 4. Create a .env file in the same directory as the telegram-bot.py file, and add the following line to it:
-   '''TELEGRAM_API_TOKEN=<your_telegram_api_token>'''
+   '''
+   TELEGRAM_API_TOKEN=<your_telegram_api_token>
+   '''
