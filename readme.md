@@ -19,7 +19,7 @@ Get your Tavily Search API Key
    TAVILY_API_TOKEN=<your_tavily_api_token>
    ```
 
-Enjoy
+Enjoy!
 ```
 python telegram-bot.py
 ```
