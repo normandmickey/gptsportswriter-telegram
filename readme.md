@@ -19,6 +19,13 @@ Get your Tavily Search API Key
    TAVILY_API_TOKEN=<your_tavily_api_token>
    ```
 
+Get your Groq API Key
+1. Visit https://console.groq.com/login
+2. Add the following line to your .env file
+   ```
+   GROQ_API_TOKEN=<your_groq_api_token>
+   ```
+
 Enjoy!
 ```
 python telegram-bot.py
