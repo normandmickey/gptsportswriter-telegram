@@ -1,4 +1,4 @@
-```pip3 install python-telegram-bot python-dotenv groq```
+```pip3 install python-telegram-bot python-dotenv groq tavily-python```
 
 Clone this repository
 
